@@ -83,18 +83,18 @@ def body_text(fill):
 {spec(110, "Kernel", "Software Developer")}
 {spec(130, "IDE", "Cursor, VS Code")}
 <tspan x="390" y="150" class="cc">. </tspan>
-{spec_nested(170, "Languages", "Programming", "Python, JavaScript")}
+{spec_nested(170, "Languages", "Programming", "Python, JavaScript", "C++", "Typecript", "C")}
 {spec_nested(190, "Languages", "Computer", "HTML, CSS, JSON, Jupyter, YAML")}
 {spec_nested(210, "Languages", "Real", "English, Hindi")}
 <tspan x="390" y="230" class="cc">. </tspan>
 {spec_nested(250, "Hobbies", "Software", "Machine Learning, Voice Apps")}
 {spec_nested(270, "Hobbies", "Hardware", "PCs, Custom Setups")}
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-{spec_nested(330, "Email", "Personal", "github.com/kkura01")}
-{spec_nested(350, "Email", "Personal", "chaewonieee")}
-{spec_nested(370, "Email", "Work", "—")}
-{spec(390, "LinkedIn", "kkura01")}
-{spec(410, "Discord", "kkura01")}
+# {spec_nested(330, "Email", "Personal", "github.com/kkura01")}
+{spec_nested(350, "Email", "Personal", "dhruvwange07@gmail.com")}
+{spec_nested(370, "Email", "Work", "dhruv.devxz@gmail.com")}
+{spec(390, "LinkedIn", "Dhruv Wange")}
+{spec(410, "Discord", "skiiiii")}
 {stats_block()}
 </text>"""
 
